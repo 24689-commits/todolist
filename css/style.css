@@ -44,5 +44,6 @@ h2{
     padding-bottom: 10px;
     font-weight: bolder;
     text-decoration: underline;
+    /* text-decoration: line-through; */
 
 }
